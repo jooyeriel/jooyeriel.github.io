@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jeongmin Kim"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Jeongmin Kim"
 description              : &description "Ph.D. student | Center for Digital Innovation & Dept. of Computer Information Systems, Robinson College of Business, Georgia State University"
