@@ -17,6 +17,7 @@ Journal Publications
 
 
 
-Conference Proceedings
+Conference Presentations and Proceedings
 ======
-* Pub 1
+* Kim, J., Rai, A. Lin, Y-K., “AI Labor Markets: Toward a Dynamic Skills-Based Approach to Measurement,” To be presented at the 44th *International Conference on Information Systems*, December 10-13, Hyderabad, India, 2023.
+* Song, M., Kim, J., Son, J., and Lee, G. “The Impact of Interactive Content on User Engagement in Live-streaming Videos,” Presented at *INFORMS Annual Meeting*, Anaheim, CA & Virtual, USA, 2021.
