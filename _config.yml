@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Jeongmin Kim"
+name                     : &name "Home"
 description              : &description "Ph.D. student | Center for Digital Innovation & Dept. of Computer Information Systems, Robinson College of Business, Georgia State University"
 url                      : https://minkim88.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
