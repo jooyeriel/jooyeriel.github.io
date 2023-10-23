@@ -11,7 +11,7 @@ title                    : "Jeongmin Kim"
 title_separator          : "-"
 name                     : &name "Jeongmin Kim"
 description              : &description "Ph.D. student | Center for Digital Innovation & Dept. of Computer Information Systems, Robinson College of Business, Georgia State University"
-url                      : https://minkim88.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://minkim88.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://minkim88.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -103,7 +103,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0001-5864-662X"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : 
