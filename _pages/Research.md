@@ -13,11 +13,10 @@ redirect_from:
 
 Journal Publications
 ======
-* Pub 1
-* Pub 2
+* Kim, J., Lim, H., Ahn, J. H., Lee, K. H., Lee, K. S., & Koo, K. C. (2021). Optimal Triage for COVID-19 Patients Under Limited Health Care Resources With a Parsimonious Machine Learning Prediction Model and Threshold Optimization Using Discrete-Event Simulation: Development Study. *'JMIR Medical Informatics'*, 9(11), e32726.
+
 
 
 Conference Proceedings
 ======
 * Pub 1
-* Pub 2
