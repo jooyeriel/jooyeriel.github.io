@@ -13,7 +13,7 @@ name                     : &name "Jeongmin Kim"
 description              : &description "Ph.D. student | Center for Digital Innovation & Dept. of Computer Information Systems, Robinson College of Business, Georgia State University"
 url                      : https://minkim88.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://minkim88.github.io/"
+repository               : "https://minkim88.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
