@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jeongmin Kim. I joined the Center for Digital Innovation & Dept. of Computer Information Systems as a Ph.D. student in 2022. My research interest lies in Artificial Intelligence, labor markets, and the future of work. Before joining the program, I receiveda a Master’s degree in Management Engineering at the Korea Advanced Institute of Science and Technology (KAIST).
+I am a Ph.D. student at the Center for Digital Innovation & Dept. of Computer Information Systems, Georgia State University. My research primarily centers around artificial intelligence, labor markets, and future of work. 
+
+Before joining the Ph.D. program, I received a Master’s degree in Management Engineering at the Korea Advanced Institute of Science and Technology (KAIST).
