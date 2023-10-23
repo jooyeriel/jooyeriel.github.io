@@ -9,4 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV](http://minkim88.github.io/files/Jeongmin_Kim_CV.pdf)
+<br/>
+*[Download CV](http://minkim88.github.io/files/Jeongmin_Kim_CV.pdf)
