@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="files/Jeongmin_Kim_CV.pdf" width="800" height="1000" type="application/pdf">
+<object data="files/Jeongmin_Kim_CV.pdf" width="1000" height="1000" type='application/pdf'></object>
