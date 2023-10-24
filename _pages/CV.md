@@ -11,3 +11,4 @@ redirect_from:
 
 <br/>
 [Download CV](http://minkim88.github.io/files/Jeongmin_Kim_CV.pdf)
+<iframe src="http://minkim88.github.io/files/Jeongmin_Kim_CV.pdf" width="100%" height="500px"></iframe>
