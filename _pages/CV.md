@@ -11,4 +11,4 @@ redirect_from:
 
 <br/>
 [Download CV](http://minkim88.github.io/files/Jeongmin_Kim_CV.pdf)
-<iframe src="https://docs.google.com/gview?url=http://minkim88.github.io/files/Jeongmin_Kim_CV.pdf&embedded=true" width="100%" height="500px"></iframe>
+<iframe src="https://docs.google.com/gview?url=http://minkim88.github.io/files/Jeongmin_Kim_CV.pdf&embedded=true" width="100%" height="1000px"></iframe>
