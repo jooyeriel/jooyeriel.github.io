@@ -11,7 +11,6 @@ redirect_from:
 
 <br/>
 
-Test
-======
+
 * Reviewer for Journal of Management Information Systems
 * Graduate Assistant for the International Conference on Information Systems (ICIS) Doctoral Consortium 
