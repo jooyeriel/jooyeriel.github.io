@@ -19,5 +19,5 @@ Journal Publications
 
 Conference Presentations and Proceedings
 ======
-* **Kim, J.**, Rai, A. Lin, Y-K., “AI Labor Markets: Toward a Dynamic Skills-Based Approach to Measurement,” To be presented at the 44th *International Conference on Information Systems*, December 10-13, Hyderabad, India, 2023. - **Best Paper Nominee**
-* Song, M., **Kim, J.**, Son, J., and Lee, G. “The Impact of Interactive Content on User Engagement in Live-streaming Videos,” Presented at *INFORMS Annual Meeting*, Anaheim, CA & Virtual, USA, 2021.
+* **Kim, J.**, Rai, A. Lin, Y-K., “AI Labor Markets: Toward a Dynamic Skills-Based Approach to Measurement,” *The 2023 International Conference on Information Systems (ICIS 2023)*; December 10-13, 2023 - **Best Paper Nominee**
+* Song, M., **Kim, J.**, Son, J., and Lee, G. “The Impact of Interactive Content on User Engagement in Live-streaming Videos,” *INFORMS Annual Meeting*, Anaheim, CA & Virtual, USA, 2021.
