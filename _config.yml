@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Home"
-description              : &description "Ph.D. student | Center for Digital Innovation & Dept. of Computer Information Systems, Robinson College of Business, Georgia State University"
-url                      : https://minkim88.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Ph.D. student | Department of Computer Information Systems, Robinson College of Business, Georgia State University"
+url                      : https://jooyeriel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://minkim88.github.io"
+repository               : "https://jooyeriel.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jeongmin Kim"
-  avatar           : "Jeongmin Headshot Photo Square.jpg"
-  bio              : "Ph.D. student | Center for Digital Innovation & Dept. of Computer Information Systems, Robinson College of Business, Georgia State University"
+  name             : "Heejin Joo"
+  avatar           : "Picture1.jpg"
+  bio              : "Ph.D. student | Department of Computer Information Systems, Robinson College of Business, Georgia State University"
   location         : "Atlanta, GA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YKbTmyUAAAAJ&hl=en"
-  email            : "jkim494@student.gsu.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=ZQhmABQAAAAJ&hl=en"
+  email            : "hjoo2@student.gsu.edu"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "minkim88"
+  github           : "jooyeriel"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/jeongmin-kim-484719201/"
+  linkedin         : "https://www.linkedin.com/in/heejin-joo-18a834120/"
   orcid            :
   pinterest        :
   soundcloud       :
