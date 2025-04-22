@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Home"
-description              : &description "Ph.D. student | Department of Computer Information Systems, Robinson College of Business, Georgia State University"
+description              : &description "Ph.D. Candidate | Department of Computer Information Systems, Robinson College of Business, Georgia State University"
 url                      : https://jooyeriel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://jooyeriel.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Heejin Joo"
   avatar           : "Picture1.png"
-  bio              : "Ph.D. student | Department of Computer Information Systems, Robinson College of Business, Georgia State University"
+  bio              : "Ph.D. Candidate | Department of Computer Information Systems, Robinson College of Business, Georgia State University"
   location         : "Atlanta, GA"
   employer         :
   pubmed           : 
