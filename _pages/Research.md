@@ -16,7 +16,7 @@ Journal Publications
 
 * **Joo, H.**, Kim, J., Shin, J., Kim, K., and Lee, G. (2021). The Impacts of AI-enabled Search Services on Local Economy. Information Systems Review, 23(3), 77-96. 
 * Hwang, JH., Lee, GW., Bae, KH., **Joo, H.**, Kim, Y., and Kim, Alex J. (2022) An Exploratory Study on Consumers’ Media and Channel Choices throughout the Consumer Decision Journey. Korea Advertising Society, 33(1), 29-57
-
+* **Joo, H.** and Lee, F. (2025). Bridging the Student Feedback Gap with Generative Artificial Intelligence. Decision Sciences Journal of Innovative Education, 
 
 
 Conference Presentations and Proceedings
