@@ -12,5 +12,6 @@ redirect_from:
 <br/>
 
 
-* Reviewer for Journal of Management Information Systems
-* Graduate Assistant for the International Conference on Information Systems (ICIS) Doctoral Consortium 
+* Reviewer for 2025 International Conference on Information Systems
+* On-site Volunteer for 2024 International Conference on Information Systems
+* Format-Reviewer Volunteer for 2023 International Conference on Information Systems
