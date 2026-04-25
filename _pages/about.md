@@ -29,6 +29,6 @@ These are my beloved companions, **Munji** and **Kami**. They are one year old a
   <img src="https://jooyeriel.github.io/IMG_8854.JPG" alt="Support Team" style="width:55%; max-width:480px; border-radius:10px;">
 </div>
 
-I am still not sure **whether they are protecting me or judging me for not going to bed on time*.
+I am still not sure *whether they are protecting me or judging me for not going to bed on time*.
 
 Special thanks, love, and credit to my emotional support team.
