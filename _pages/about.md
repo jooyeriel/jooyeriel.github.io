@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the Department of Computer Information Systems at Georgia State University, where I work under the supervision of Professor Likoebe Maruping. My research focuses on digital platforms, user behavior, platform design, and Green Information Systems. I am also deeply interested in the societal implications of artificial intelligence, including how emerging technologies shape fairness, well-being, and economic opportunity. I believe research should create meaningful value, and I strive to contribute work that helps build a more thoughtful and sustainable world.
+I am a Ph.D. student in the Department of Computer Information Systems at Georgia State University, where I work under the supervision of [Professor Likoebe Mohau Maruping](https://lmaruping.com/about/). My research focuses on digital platforms, user behavior, platform design, and Green Information Systems. I am also deeply interested in the societal implications of artificial intelligence, including how emerging technologies shape fairness, well-being, and economic opportunity. I believe research should create meaningful value, and I strive to contribute work that helps build a more thoughtful and sustainable world.
 
 Before joining the Ph.D. program, I earned a Master’s degree in Management Information Systems from Korea University. I also completed undergraduate studies in Psychology and Business Administration, where I developed strong interests in experimental design, statistics, measurement development, and data visualization.
 
